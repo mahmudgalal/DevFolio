@@ -69,6 +69,10 @@ body{
 .navbar .dropdown:hover .drop{
     display: block;
 }
+.navbar .dropend:hover .drop-2{
+    display: block;
+    left: 100%;
+}
 .header{
     background-image: linear-gradient(rgba(0, 0, 0, 0.5) 0% 50% , rgba(0, 0, 0, 0.50) 50% 100%) , url(../images/hero-bg.jpg);
     background-position: center;
@@ -247,5 +251,4 @@ body{
 /* footer Section */
 .footer{
     background-color: #0062D3;
-    
 }
